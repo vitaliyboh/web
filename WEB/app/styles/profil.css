@@ -1,0 +1,17 @@
+body {
+    zoom: 0.9;
+}
+nav { padding:10px;}
+
+h1 {
+    padding-top: 10px;
+}
+
+div.vypisy {
+    border: double;
+}
+div.vypisy h3 {
+    padding-top: 5px;
+}
+
+footer { padding: 10px; background-color: lightgrey; text-align: center; }

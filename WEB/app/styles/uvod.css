@@ -1,0 +1,33 @@
+body {
+    zoom: 0.9;
+}
+nav { padding:10px;}
+
+/* Make the image fully responsive */
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+}
+
+.carousel-item {
+    height: 32rem;
+}
+
+.carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
+}
+
+
+footer { padding: 10px; background-color: lightgrey; text-align: center; }
